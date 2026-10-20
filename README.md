@@ -1,4 +1,4 @@
-# Tweet-silme-olayc-
+# Tweet-silme-olaycıgı-
 
 X (Twitter) hesabındaki tweet'leri **ücretsiz** ve **üçüncü taraf bir siteye giriş yapmadan**, doğrudan tarayıcında toplu olarak silmeni sağlayan küçük bir JavaScript scriptidir.
 
